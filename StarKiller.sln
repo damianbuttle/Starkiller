@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarKiller.CSharp", "StarKiller.CSharp.csproj", "{329E852D-C046-B142-9ED5-D1E394357FB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarKiller.CSharp.Editor", "StarKiller.CSharp.Editor.csproj", "{451D6759-0F8B-2E0E-FD22-02F966B9BB75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{329E852D-C046-B142-9ED5-D1E394357FB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{329E852D-C046-B142-9ED5-D1E394357FB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{329E852D-C046-B142-9ED5-D1E394357FB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{329E852D-C046-B142-9ED5-D1E394357FB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{451D6759-0F8B-2E0E-FD22-02F966B9BB75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{451D6759-0F8B-2E0E-FD22-02F966B9BB75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{451D6759-0F8B-2E0E-FD22-02F966B9BB75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{451D6759-0F8B-2E0E-FD22-02F966B9BB75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
